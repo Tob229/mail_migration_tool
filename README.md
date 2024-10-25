@@ -32,6 +32,10 @@ Ce projet vise à simplifier les migrations d'emails, notamment lors de changeme
    ```bash
    docker run -p 5000:5000 mail_migration_tool
    ```
+4. **Ou vous téléchargez l'image depuis le docker hub** :
+   ```bash
+   docker push levide229/mail_migration_tool:latest
+   ```
 
 ## Utilisation
 1. **Accéder à l’interface** : Rendez-vous sur `http://<IP_du_serveur>:5000` dans un navigateur.
