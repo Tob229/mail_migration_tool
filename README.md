@@ -19,7 +19,7 @@ Ce projet vise à simplifier les migrations d'emails, notamment lors de changeme
 ## Installation
 1. **Cloner le dépôt** sur votre machine locale :
    ```bash
-   git clone <URL_du_dépôt>
+   git clone https://github.com/Tob229/mail_migration_tool.git
    cd mail_migration_tool
    ```
 
