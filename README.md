@@ -34,7 +34,7 @@ Ce projet vise à simplifier les migrations d'emails, notamment lors de changeme
    ```
 4. **Ou vous téléchargez l'image depuis le docker hub** :
    ```bash
-   docker push levide229/mail_migration_tool:latest
+   docker pull levide229/mail_migration_tool:latest
    ```
 
 ## Utilisation
